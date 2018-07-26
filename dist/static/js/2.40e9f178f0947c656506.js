@@ -1,0 +1,2 @@
+webpackJsonp([2],{"8rDZ":function(e,n){},"n5/T":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n   color \n")])},staticRenderFns:[]};var a=t("vSla")({},r,!1,function(e){t("8rDZ")},"data-v-41722bb0",null);n.default=a.exports}});
+//# sourceMappingURL=2.40e9f178f0947c656506.js.map
